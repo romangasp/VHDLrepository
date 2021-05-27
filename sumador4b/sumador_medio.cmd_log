@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador_medio.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador_medio.syr" 
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador_medio.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador_medio.syr" 
+netgen -intstyle ise -ar Structure -tm sumador_medio -w -dir netgen/synthesis -ofmt vhdl -sim sumador_medio.ngc sumador_medio_synthesis.vhd 
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador_medio.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador_medio.syr" 
+vhdtdtfi -prj sumador4b -o "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador_medio.vhi" -module sumador_medio -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work sumador_medio.vhd 

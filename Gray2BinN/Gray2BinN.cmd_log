@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Gray2BinN/Gray2BinN.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Gray2BinN/Gray2BinN.syr" 

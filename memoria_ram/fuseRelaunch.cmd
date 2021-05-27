@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/memoria_ram/sim1_isim_beh.exe" -prj "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/memoria_ram/sim1_beh.prj" "work.sim1" 

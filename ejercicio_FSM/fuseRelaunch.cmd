@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/ejercicio_FSM/simFSM1_isim_beh.exe" -prj "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/ejercicio_FSM/simFSM1_beh.prj" "work.simFSM1" 

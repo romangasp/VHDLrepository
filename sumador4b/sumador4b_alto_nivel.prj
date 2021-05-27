@@ -1,0 +1,3 @@
+vhdl work "sumador_medio.vhd"
+vhdl work "sumador_completo.vhd"
+vhdl work "sumador4b_alto_nivel.vhd"

@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.syr" 
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.syr" 
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.syr" 
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.syr" 

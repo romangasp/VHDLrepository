@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador_completo.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador_completo.syr" 
+vhdtdtfi -prj sumador4b -o "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador_completo.vhi" -module sumador_completo -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work sumador_completo.vhd 

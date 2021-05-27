@@ -1,0 +1,8 @@
+V3 3
+FL "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Nat2Aik/Nat2Aik.vhd" 2020/08/22.08:47:25 P.20131013
+EN work/comparator 1598096863 \
+      FL "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Nat2Aik/Nat2Aik.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/comparator/WhenElse 1598096864 \
+      FL "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Nat2Aik/Nat2Aik.vhd" \
+      EN work/comparator 1598096863

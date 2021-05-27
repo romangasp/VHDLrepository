@@ -1,0 +1,9 @@
+V3 3
+FL "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.vhd" 2020/08/10.09:29:57 P.20131013
+EN work/serie_serie 1597062611 \
+      FL "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/serie_serie/Behavioral 1597062612 \
+      FL "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/serie_serie/serie_serie.vhd" \
+      EN work/serie_serie 1597062611

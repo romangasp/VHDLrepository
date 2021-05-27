@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="sumador4b.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="netgen"/>
+    <file xil_pn:fileType="FILE_NETGEN_REPORT" xil_pn:name="netgen/synthesis/sumador_medio_synthesis.nlf"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="netgen/synthesis/sumador_medio_synthesis.vhd"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="sumador4b_alto_nivel.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="sumador4b_alto_nivel.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="sumador4b_alto_nivel.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="sumador4b_alto_nivel.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sumador4b_alto_nivel.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="sumador4b_alto_nivel.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="sumador4b_alto_nivel.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="sumador4b_alto_nivel.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="sumador4b_alto_nivel_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sumador4b_alto_nivel_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sumador4b_alto_nivel_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="sumador_completo.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="sumador_completo.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="sumador_completo.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="sumador_completo.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sumador_completo.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="sumador_completo.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="sumador_completo.syr"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="sumador_completo.vhi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="sumador_completo.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="sumador_completo_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sumador_completo_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sumador_completo_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="sumador_medio.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="sumador_medio.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="sumador_medio.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="sumador_medio.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sumador_medio.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="sumador_medio.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="sumador_medio.syr"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="sumador_medio.vhi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="sumador_medio.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="sumador_medio_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="sumador_medio_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sumador_medio_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sumador_medio_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1596242971" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1596242971">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1596242971" xil_pn:in_ck="3243431919657585112" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1596242971">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="sumador_medio.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1596242971" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-9044832904953873877" xil_pn:start_ts="1596242971">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1596242971" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="4900216971465268963" xil_pn:start_ts="1596242971">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1596242971" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="5941647405441493915" xil_pn:start_ts="1596242971">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1596242896" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1596242896">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1596386750" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="6817021312592434520" xil_pn:start_ts="1596386750">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1596386750" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="6463986789814101808" xil_pn:start_ts="1596386750">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1596386750" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1596386750">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1596386750" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-2950869453597066080" xil_pn:start_ts="1596386750">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1596386750" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="1110319057727724918" xil_pn:start_ts="1596386750">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1596386750" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-5704036611960061382" xil_pn:start_ts="1596386750">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1596386757" xil_pn:in_ck="-5149684448482099502" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="-6411043821010661542" xil_pn:start_ts="1596386750">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name=".lso"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="sumador4b_alto_nivel.lso"/>
+      <outfile xil_pn:name="sumador4b_alto_nivel.ngc"/>
+      <outfile xil_pn:name="sumador4b_alto_nivel.ngr"/>
+      <outfile xil_pn:name="sumador4b_alto_nivel.prj"/>
+      <outfile xil_pn:name="sumador4b_alto_nivel.stx"/>
+      <outfile xil_pn:name="sumador4b_alto_nivel.syr"/>
+      <outfile xil_pn:name="sumador4b_alto_nivel.xst"/>
+      <outfile xil_pn:name="sumador4b_alto_nivel_vhdl.prj"/>
+      <outfile xil_pn:name="sumador4b_alto_nivel_xst.xrpt"/>
+      <outfile xil_pn:name="sumador_completo.ngr"/>
+      <outfile xil_pn:name="sumador_medio.ngr"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1596243054" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="6139693260477255456" xil_pn:start_ts="1596243054">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+  </transforms>
+
+</generated_project>

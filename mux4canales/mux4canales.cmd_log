@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/mux4canales/mux4canales.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/mux4canales/mux4canales.syr" 
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/mux4canales/mux4canales.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/mux4canales/mux4canales.syr" 

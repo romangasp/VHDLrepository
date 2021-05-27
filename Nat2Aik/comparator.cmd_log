@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Nat2Aik/comparator.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Nat2Aik/comparator.syr" 
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Nat2Aik/comparator.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Nat2Aik/comparator.syr" 

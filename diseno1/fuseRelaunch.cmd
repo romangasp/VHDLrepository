@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/diseno1/pruebaProcess_isim_beh.exe" -prj "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/diseno1/pruebaProcess_beh.prj" "work.pruebaProcess" 

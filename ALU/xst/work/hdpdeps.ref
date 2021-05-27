@@ -1,0 +1,9 @@
+V3 3
+FL "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/ALU/ALU.vhd" 2020/07/29.21:00:02 P.20131013
+EN work/ALU 1596067214 \
+      FL "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/ALU/ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ALU/Behavioral 1596067215 \
+      FL "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/ALU/ALU.vhd" \
+      EN work/ALU 1596067214

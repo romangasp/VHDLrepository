@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/multiply_generic/multiplygeneric.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/multiply_generic/multiplygeneric.syr" 
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/multiply_generic/multiplygeneric.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/multiply_generic/multiplygeneric.syr" 

@@ -1,0 +1,34 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/mux4canales/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/mux4canales/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/mux4canales/mux4canales.vhd" in Library work.
+ERROR:HDLParsers:164 - "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/mux4canales/mux4canales.vhd" Line 35. parse error, unexpected CLOSEPAR, expecting IDENTIFIER
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> 
+
+Total memory usage is 4421184 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

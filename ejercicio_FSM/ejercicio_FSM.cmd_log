@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/ejercicio_FSM/ejercicio_FSM.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/ejercicio_FSM/ejercicio_FSM.syr" 

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/mux4canales/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/mux4canales/xst"
+elaborate
+-ifn mux4canales.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador4b_alto_nivel.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/sumador4b/sumador4b_alto_nivel.syr" 

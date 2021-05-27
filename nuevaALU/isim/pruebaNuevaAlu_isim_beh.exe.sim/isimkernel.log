@@ -1,0 +1,29 @@
+Command line:
+   pruebaNuevaAlu_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51870
+
+Sat Aug 01 18:06:59 2020
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.53 Meg
+
+ Total Signals          : 8
+ Total Nets             : 26
+ Total Signal Drivers   : 4
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 2
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 404
+Total Line Count : 21
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 4678.67 Meg
+
+Sat Aug 01 22:04:49 2020
+

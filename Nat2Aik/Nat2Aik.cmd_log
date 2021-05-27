@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Nat2Aik/Nat2Aik.xst" -ofn "C:/Users/Roman Gasparini/Documents/xilink/projectsVhdl/Nat2Aik/Nat2Aik.syr" 
